@@ -36,16 +36,7 @@ pdf 로 구하고 싶었으나 pdf 파일을 구하려면 직접 캡처하는 �
 사용 방법은 매우 간단하다.
 
 ### 1\. 깃을 클론 한다.
-
-[https://github.com/jhon3242/viewerCaptureMacro](https://github.com/jhon3242/viewerCaptureMacro)
-
- [GitHub - jhon3242/viewerCaptureMacro: ebook 뷰어를 통해 책을 캡쳐하는 매크로 프로그램이다.
-
-ebook 뷰어를 통해 책을 캡쳐하는 매크로 프로그램이다. Contribute to jhon3242/viewerCaptureMacro development by creating an account on GitHub.
-
-github.com](https://github.com/jhon3242/viewerCaptureMacro)
-
-해당 링크를 통해 레포지토리를 깃 클론하거나 다운로드 받는다.
+레포지토리를 깃 클론하거나 다운로드 받는다.
 
 ### 2\. requirements.txt 에 있는 모듈들을 다운로드한다.
 
@@ -57,7 +48,7 @@ pip install -r requirements.txt
 
 ### 3\. main.py 에서 페이지 개수 등을 설정한다.
 
-[##_Image|kage@c9tRMx/btsCq9r8XYz/Y4igQsS52l5IVpfVlHBS80/img.png|CDM|1.3|{"originWidth":1410,"originHeight":390,"style":"alignCenter"}_##]
+![Alt text](image.png)
 
 저장할 경로, 저장할 파일 타입, 저장할 페이지 개수를 설정한다.
 
@@ -65,7 +56,7 @@ pip install -r requirements.txt
 
 ### 4\. 뷰어 프로그램을 킨다.
 
-[##_Image|kage@bdTLp6/btsCl1CpHnO/UY7Z1URplRP2DWeUoYF45k/img.png|CDM|1.3|{"originWidth":3360,"originHeight":2100,"style":"alignCenter"}_##]
+![Alt text](image-1.png)
 
 전체화면으로 뷰어 프로그램을 켜고 맨 처음 페이지로 이동시켜 둔다.  
 (오른쪽 방향키 클릭 시 다음페이지로 넘어가는 것을 확인한다.)
